@@ -6,7 +6,6 @@ import plotly.express as px
 import utils.visualization as vis
 import utils.constants as const
 import utils.calculations as calc
-from IPython.display import display
 
 st.subheader(f"Расчет относительного сужения ${r'\psi'}$")
 
